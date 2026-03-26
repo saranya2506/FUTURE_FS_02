@@ -1,0 +1,22 @@
+Running git init 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+Running remove origin 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+Running add origin 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+Running add 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+Running commit 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+Running branch 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+Running push 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+Done 
